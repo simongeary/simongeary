@@ -6,14 +6,14 @@
 
 ## 🚀 About Me
 
-I'm a technology leader specializing in **Microsoft Cloud Technologies** and **Post-Merger Integration**. I help organizations navigate complex technology transformations, particularly during mergers and acquisitions, ensuring seamless integration of systems, processes, and teams.
+I'm a technology leader specialising in **Microsoft Cloud Technologies** and **Post-Merger Integration**. I help organisations navigate complex technology transformations, particularly during mergers and acquisitions, ensuring seamless integration of systems, processes, and teams.
 
 - 🔭 Currently architecting Azure solutions and Microsoft 365 integrations for enterprise clients
 - 🌱 Deep-diving into advanced Microsoft Graph capabilities and Azure governance
 - 👯 Looking to collaborate on cloud transformation and M&A technology integration projects  
-- 💼 Specialized in post-merger integration strategies and technology consolidation
+- 💼 Specialised in post-merger integration strategies and technology consolidation
 - 💬 Ask me about Azure architecture, Microsoft 365 governance, or M&A tech integration
-- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/simon-geary) or via email
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/simon-geary)
 - ⚡ Fun fact: I've helped integrate over 50+ acquisitions across various industries!
 
 ## 🛠️ Core Technologies & Expertise
@@ -52,7 +52,7 @@ I'm a technology leader specializing in **Microsoft Cloud Technologies** and **P
 - **Technology Due Diligence** - Comprehensive assessment of IT landscapes and integration complexity
 - **Integration Strategy** - Designing phased approaches for system consolidation and migration
 - **Governance & Compliance** - Ensuring regulatory compliance during technology transitions
-- **Change Management** - Leading cross-functional teams through complex organizational changes
+- **Change Management** - Leading cross-functional teams through complex organisational changes
 - **Risk Mitigation** - Identifying and addressing integration risks before they impact business operations
 
 ### ☁️ Microsoft Cloud Architecture
@@ -98,7 +98,7 @@ I'm a technology leader specializing in **Microsoft Cloud Technologies** and **P
 
 Here are some of my key projects showcasing Microsoft technologies and integration expertise:
 
-- 🏗️ **Azure-Bicep-Templates** - Production-ready Bicep templates for enterprise deployments
+- 🏗️ **Azure-Bicep-Templates** - Production-ready Bicep templates for enterprise deployments using Azure Verified Modules
 - 🔗 **MSGraph-Integration-Toolkit** - Comprehensive Microsoft Graph API integration examples
 - 🚀 **M365-Governance-Framework** - Complete governance solution for Microsoft 365
 - ⚙️ **GitHub-Actions-Azure** - CI/CD pipelines for Azure resource deployment
