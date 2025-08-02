@@ -6,6 +6,8 @@
 
 ## 🚀 About Me
 
+Most of this is made up by Copilot. I'm still working to make it accurate.
+
 I'm a technology leader specialising in **Microsoft Cloud Technologies** and **Post-Merger Integration**. I help organisations navigate complex technology transformations, particularly during mergers and acquisitions, ensuring seamless integration of systems, processes, and teams.
 
 - 🔭 Currently architecting Azure solutions and Microsoft 365 integrations for enterprise clients
