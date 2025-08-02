@@ -48,7 +48,7 @@ I'm a technology leader specialising in **Microsoft Cloud Technologies** and **P
 
 </div>
 
-## 🎯 Specialization Areas
+## 🎯 Specialisation Areas
 
 ### 🤝 Post-Merger Integration Excellence
 - **Technology Due Diligence** - Comprehensive assessment of IT landscapes and integration complexity
