@@ -15,7 +15,7 @@ I'm a technology leader specialising in **Microsoft Cloud Technologies** and **P
 - 👯 Looking to collaborate on cloud transformation and M&A technology integration projects  
 - 💼 Specialised in post-merger integration strategies and technology consolidation
 - 💬 Ask me about Azure architecture, Microsoft 365 governance, or M&A tech integration
-- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/simon-geary)
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/simongeary)
 - ⚡ Fun fact: I've helped integrate over 50+ acquisitions across various industries!
 
 ## 🛠️ Core Technologies & Expertise
@@ -110,7 +110,7 @@ Here are some of my key projects showcasing Microsoft technologies and integrati
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-geary)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simongeary)
 [![Microsoft MVP](https://img.shields.io/badge/-Microsoft%20Community-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com)
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:simon@example.com)
 [![GitHub](https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/simongeary)
