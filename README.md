@@ -132,5 +132,6 @@ I offer consulting services in:
 </div>
 
 <div align="center">
-  <i>"In post-merger integration, success isn't just about combining technologies—it's about creating a unified digital ecosystem that empowers people and drives business value."</i>
+  <i>"There is much in the view that one of the uncovenanted benefits of acquiring a computer is that it compels those who would use it to understand the business in which they are engaged."</i>
+  Nature Vol. 232, August 1971
 </div>
